@@ -19,4 +19,4 @@ app.use(cookieparser())
 
 
 
-export default {app}
+export  {app}
